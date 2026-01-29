@@ -2,9 +2,16 @@
 
 Thư mục này chứa tất cả các file ghi chú và tài liệu kỹ thuật cho dự án.
 
-## 📁 Danh sách files
+### Development Notes
 
-- **`DEVELOPMENT_NOTES.md`** - Ghi chú chi tiết về code, giải thích kỹ thuật, best practices
+**Notes theo từng bước phát triển:**
+
+- **`note_ui-setup_00.md`** - Bước 00: Setup UI ban đầu (Login/Register pages)
+- **`note_api-integration_01.md`** - Bước 01: Setup API Integration (User & Book services)
+
+---
+
+### API Integration (Mới) 🆕
 
 ## 📝 Quy tắc
 
